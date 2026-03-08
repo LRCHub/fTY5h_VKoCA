@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ALL IN",
+  "base_artist": "HANA",
+  "createdAt": "2026-03-08T07:59:33.317884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's All In The Movies",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/01_It's_All_In_The_Movies_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's All In Your Head",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/02_It's_All_In_Your_Head_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All in Question",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/03_All_in_Question_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Woo Haa!! Got You All in Check",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/04_Woo_Haa!!_Got_You_All_in_Check_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WOOHAA!! Got You All In Check",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/05_WOOHAA!!_Got_You_All_In_Check_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All In",
+      "artist": "Lil Yachty feat. Burberry Perry, Byou, Kay the Yacht, BigBruthaChubba, $oop, Jban$2Turnt, Kodie Shane & K$upreme",
+      "has_synced": true,
+      "path": "select/06_All_In_Lil_Yachty_feat._Burberry_Perry,_Byou,_Kay_the_Yacht,_BigBruthaChubba,_$oop,_Jba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All In Your Hands",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/07_All_In_Your_Hands_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Madness (Is All In the Mind)",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/08_Madness_(Is_All_In_the_Mind)_Madness.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All In The Name Of...",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/09_All_In_The_Name_Of..._Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "(Probably) All In The Mind",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_(Probably)_All_In_The_Mind_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All In Together Now",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": false,
+      "path": "select/11_All_In_Together_Now_Ol'_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All in Your Mind (Live at the Robin Hood Club, Dudley, 1996)",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/12_All_in_Your_Mind_(Live_at_the_Robin_Hood_Club,_Dudley,_1996)_Stray.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All In",
+      "artist": "Nebu Kiniza",
+      "has_synced": true,
+      "path": "select/13_All_In_Nebu_Kiniza.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All In the Mind",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/14_All_In_the_Mind_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All In The Mind",
+      "artist": "The Verve",
+      "has_synced": false,
+      "path": "select/15_All_In_The_Mind_The_Verve.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take It All In",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/16_Take_It_All_In_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All In It",
+      "artist": "British Sea Power",
+      "has_synced": false,
+      "path": "select/17_All_In_It_British_Sea_Power.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALL IN",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_ALL_IN_HANA.txt"
+    }
+  ]
+}
